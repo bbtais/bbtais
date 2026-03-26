@@ -1,5 +1,5 @@
 # Hi, I am Taisei Baba(馬場 大誠).
-# ポートフォリオ: [https://github.com/bbtais/bbtais.github.io](https://bbtais.github.io/)
+# ポートフォリオ: https://bbtais.github.io/
 
 ## 高専
 ### blenderを用いた3DCGの作成(2020年度 自主探究発表会 優秀賞, 2021年度 自主探究発表会 優秀賞, 審査員特別賞)
